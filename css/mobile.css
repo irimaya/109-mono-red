@@ -1,0 +1,77 @@
+/* Main Styling */
+header {
+  height: 100%;
+}
+
+/* Navbar */
+#navbar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navbar ul {
+  float: none;
+  padding-top: 20px;
+}
+
+#navbar ul li {
+  float: none;
+}
+
+/* Showcase */
+#showcase {
+  padding: 50px 0;
+}
+
+.showcase-img {
+  float: none;
+  width: 100%;
+  text-align: center;
+}
+
+.showcase-img img {
+  width: 80%;
+  margin: auto 0;
+}
+
+.showcase-text {
+  float: none;
+  width: 100%;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+/* About */
+#about {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.about-title {
+  float: none;
+  width: 100%;
+  padding-top: 0;
+}
+
+.about-description {
+  float: none;
+  width: 100%;
+}
+
+/* Contact */
+#contact {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.contact-form {
+  float: none;
+  width: 100%;
+  padding: 20px;
+}
+
+.contact-title {
+  float: none;
+  width: 100%;
+  padding-top: 20px;
+}
